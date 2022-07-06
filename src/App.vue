@@ -6,7 +6,7 @@
         lastName: "Hajdari",
         email: "lory.h4000@gmail.com",
         gender: "male",
-        picture: "src/assets/lory.jpg",
+        picture: "lory.png",
         location: {
           street: {
             number: 15,
