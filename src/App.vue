@@ -155,13 +155,12 @@ button {
     padding: 15px 35px;
     font-size: 15px;
     margin-top: 20px;
-    text-decoration: none;
+    outline: none;
     border: 1px solid #333;
     background: transparent;
     color: black;
     font-weight: 400;
     cursor: pointer;
-
 }
 
 </style>
