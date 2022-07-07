@@ -1,6 +1,6 @@
 # utente-random
 
-This template should help get you started developing with Vue 3 in Vite.
+This application uses an API to generate a random user whenever you click on the "Change User" button
 
 ## Recommended IDE Setup
 
